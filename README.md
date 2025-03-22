@@ -47,11 +47,15 @@
 ## 🌱 Learning & Future Goals 
 
 🚀 Mastering LLM (Large Language Models) & Quantum AI
+
 💡 Exploring AI-driven healthcare solutions
+
 🛠 Improving IoT applications for real-world automation
+
 📚 Cracking MNC interviews with DSA & system design
 
 ## 📫 Connect With Me!
+
 💼 GitHub: github.com/RajatSharma-7
 
 💻 LinkedIn: linkedin.com/in/rajat-sharma-456907264/
