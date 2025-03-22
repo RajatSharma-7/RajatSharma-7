@@ -6,10 +6,15 @@
 
 ## 💡 What I Do
 🔹 Machine Learning & AI: Building predictive models, CNNs, LSTMs, & chatbots
+
 🔹 IoT & Embedded Systems: Arduino, & cloud-based solutions
+
 🔹 Data Science & Analytics: Power BI, Tableau, Python (Pandas, NumPy, Matplotlib)
+
 🔹 Software Development: Python, C, Java, SQL
+
 🔹 Security & DevOps: Kali Linux (WSL), IBM Cloud, GitHub
+
 
 ## 📌 Projects & Achievements
 
@@ -48,7 +53,10 @@
 
 ## 📫 Connect With Me!
 💼 GitHub: github.com/RajatSharma-7
+
 💻 LinkedIn: linkedin.com/in/rajat-sharma-456907264/
+
 📩 Email: srajatsharma2003@gmail.com
+
 
 ## ✨ Let’s innovate together! 🚀💡
